@@ -1,1 +1,2 @@
 # LinkedIn-Messages-EDA
+I downloaded my LinkedIn Messages Data in csv format from my LinkedIn profile. I performed some data anlaysis on it and created some data visualizations showing some interesting insights of my LinkedIn messages. I used seaborn, pandas, matplotlib libraries and further bigger visualizations using wordcloud, textblob, and network nx. I also made  radial plot using math module. 
